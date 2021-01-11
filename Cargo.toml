@@ -1,0 +1,11 @@
+[package]
+name = "graphs"
+version = "0.1.0"
+authors = ["Ben-Lichtman <Ben_Lichtman@icloud.com>"]
+edition = "2018"
+description = "Graph data-structure implementations based off graph-traits"
+repository = "https://github.com/Ben-Lichtman/graphs"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+graph-traits = "0.1.0"
